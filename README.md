@@ -1,3 +1,9 @@
+#Integrantes do grupo
+Luan de Oliveira
+Alexandre Martins
+Nikolas Sugo
+Gercino Luiz
+Camila Rodrigues
 # atividade-tdd
 
 O usuário gostaria de uma funcionalidade que valide se uma frase ou palavra é
